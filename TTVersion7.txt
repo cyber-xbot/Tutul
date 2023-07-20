@@ -8,3 +8,4 @@ cd TT-FUCK
 git pull
 python tt7enc.py
 Rahul :1-0-2-6-3-u-0-_-a-2-6-3
+Nazmul : 1-0-7-5-3-u-0-_-a-7-5-3
